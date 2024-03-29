@@ -1,0 +1,1 @@
+from notifyapp.consumers import NotificationConsumer

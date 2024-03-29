@@ -1,0 +1,1 @@
+from notifyapp.signals import notification_created
